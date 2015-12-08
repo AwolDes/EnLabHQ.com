@@ -1,0 +1,40 @@
+RewriteEngine On
+
+#Subdomain Rewrites
+RewriteCond %{HTTP_HOST} ^enlab\.co$ [NC]
+RewriteRule ^assets/?$ http://assets.enlab.co%{REQUEST_URI} [NE,R=301,L]
+
+RewriteEngine on
+RewriteRule ^logo/(.*) assets/img/branding/identity/enlab-logo/$1
+
+#Social URL Rewrites
+Redirect 301 /plus http://google.com/+EnLabCo
+Redirect 301 /twitter http://twitter.com/EnLabHQ
+Redirect 301 /fb http://facebook.com/EnLabHQ
+Redirect 301 /facebook http://facebook.com/EnLabHQ
+Redirect 301 /medium http://medium.com/dev-science
+Redirect 301 /yt https://www.youtube.com/c/EnlabCo
+Redirect 301 /$ http://cash.me/$EnLab
+Redirect 301 /gh https://github.com/EnLab
+Redirect 301 /pinterest http://pinterest.com/EnLabHQ
+Redirect 301 /meerkat http://meerkatapp.co/EnLabHQ
+Redirect 301 /tip http://enlab.tip.me
+Redirect 301 /slack http://enlabhq.slack.com/messages
+Redirect 301 /devchat http://gitter.im/EnLab
+Redirect 301 /padlet http://padlet.com/enlabhq
+Redirect 301 /scrum http://padlet.com/EnLabHQ/scrum
+Redirect 301 /linkedin https://linkedin.com/company/enlab
+Redirect 301 /help http://enlabhq.haaash.com
+Redirect 301 /angellist http://angel.co/enlabhq
+Redirect 301 /iresdem https://ires.pagefrontapp.com/
+
+#Admin URL Rewrites
+Redirect 301 /gadmin https://google.com/a/enlab.co
+Redirect 301 /bc3 https://3.basecamp.com/3094589
+Redirect 301 /bizdocs https://drive.google.com/a/startlingstudios.net/folderview?id=0B2VUGfELlwFyQW9hNEdpdEZOUlk&usp=sharing
+
+#Promos
+
+Redirect 301 /mBTC15 https://stringstory.typeform.com/to/ojge9H?ref=enlab.co
+
+Header set Hello "Welcome to EnLab. You know how to view a header, so you get a gold star."

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Welcome to EnLab Development Studio. What can dev do for you?">
+    <meta name="author" content="@EnLabHQ">
+
+		<title>@EnLabHQ Live! on EnLab Development Studio</title>
+	
+    <!-- Set base canonical and short urls -->
+	<base href="http://enlab.co/">
+	<link rel="canonical" href="http://enlab.co/">
+	<link rel="shortlink" href="http://enlab.us/">
+
+	<!-- twitter Site Info -->	
+	<meta name="twitter:site" content="@EnLabHQ">
+	<meta name="twitter:creator" content="@EnLabHQ">
+	<meta name="twitter:card" content="summary_large_image">
+
+	<!-- twitter Page Info -->
+	<meta name="twitter:title" content="Watch live conversations about topics that matter most to you">
+	<meta name="twitter:description" content="Watch live conversations about topics that matter most to you">
+	<meta name="twitter:image" content="http://enlab.co/assets/img/branding/identity/relogoconcepts/enlab-square-stack-xlg.jpg">
+
+	<!-- Fb Open Graph Site Info -->
+	<meta property="og:site_name" content="EnLab Development Studio"/>
+	<meta property="og:type" content="website" />
+
+	<!-- Fb Open Graph Page Info -->
+	<meta property="og:title" content="EnLab Development Studio" />
+	<meta property="og:description" content="Welcome to EnLab Development Studio. What can dev do for you?" />
+	<meta property="og:url" content="http://enlab.co" />
+
+	<!---------------------------------------------------------------->
+	<meta property="og:image" content="http://enlab.co/assets/img/branding/identity/relogoconcepts/enlab-square-stack-xlg.jpg" />
+	<!-- s//o <meta property="og:video" content="" /> o//n -->
+
+    <!-- humans and robots -->
+    <link rel="author" href="/humans.txt">
+    <meta name="robots" content="index, follow">
+	
+    <!-- Icons -->
+    <link rel="shortcut icon" href="assets/ico/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/ico/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/ico/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/ico/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/ico/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/ico/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/ico/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/ico/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/ico/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/ico/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="assets/ico/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="assets/ico/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="assets/ico/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="assets/ico/android-chrome-192x192.png" sizes="192x192">
+    <meta name="msapplication-square70x70logo" content="assets/ico/smalltile.png" />
+    <meta name="msapplication-square150x150logo" content="assets/ico/mediumtile.png" />
+    <meta name="msapplication-wide310x150logo" content="assets/ico/widetile.png" />
+    <meta name="msapplication-square310x310logo" content="assets/ico/largetile.png" />
+
+    <!-- CSS Plugins -->
+    <link href="assets/css/plugins/animate.css" rel="stylesheet">
+    <link href="assets/css/plugins/owl.carousel.css" rel="stylesheet">
+    <link href="assets/css/plugins/lightbox.css" rel="stylesheet">
+    <link href="assets/fonts/open-iconic/font/css/open-iconic-bootstrap.css" rel="stylesheet">
+    <link href="assets/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Google Fonts -->
+    <link href="assets/css/plugins/fonts.css" rel="stylesheet">
+
+    <!-- CSS Custom -->
+    <link href="assets/css/styles.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+	
+  </head>
+
+  <body>
+
+    <div class="sign-in-up__wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-24 center centered text-center" style="margin: 2em;">
+		   <!-- Logo -->
+			<div class="logo center centered text-center"></div>
+			<!-- Live Blab -->
+				<iframe class="center centered text-center" style='max-width: 100%;' src='https://blab.im/lela-perez-tech-dev-open-source-is-the-engine-of-disruption-exponential-growth-2' frameborder='0' height='480' scrolling='none' width='640'></iframe>
+			<!-- / .blab -->
+          </div>
+        </div>
+      </div> <!-- / .container -->
+	  <br />
+	  <div class="center centered text-center">
+                    <a href="http://twitter.com/EnLabHQ" class="btn btn-primary">
+					<i class="fa fa-twitter"></i> twitter</a>
+					<a href="http://facebook.com/EnLabHQ" class="btn btn-primary">
+					<i class="fa fa-facebook"></i> facebook</a> 
+					<a href="http://github.com/EnLab" class="btn btn-primary">
+					<i class="fa fa-github"></i> github</a>
+	  </div>
+    </div> <!-- / .sign-in-up__wrapper -->
+
+
+    <!-- JavaScript
+    ================================================== -->
+    
+    <!-- JS Global -->
+    <!--<script src='https://www.google.com/recaptcha/api.js'></script> -->
+    <script src="js/bootstrap/bootstrap.min.js"></script>
+
+    <!-- JS Plugins -->
+    <script src="js/plugins/smoothscroll.js"></script>
+    <script src="js/plugins/jquery.waypoints.min.js"></script>
+    <script src="js/plugins/wow.min.js"></script>
+    <script src="js/plugins/owl.carousel.min.js"></script>
+    <script src="js/plugins/jquery.peity.min.js"></script>
+    <script src="js/plugins/lightbox.min.js"></script>
+    <!--<script src="js/plugins/contact.js"></script>-->
+
+    <!-- JS Custom -->
+    <script src="js/custom.js"></script>
+
+
+  </body>
+</html>

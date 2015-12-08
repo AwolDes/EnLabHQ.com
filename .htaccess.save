@@ -1,0 +1,17 @@
+RewriteEngine On
+
+#URL Rewrites
+Redirect 301 /plus http://google.com/+EnLabCo
+Redirect 301 /twitter http://twitter.com/EnLabHQ
+Redirect 301 /fb http://facebook.com/EnLabHQ
+Redirect 301 /facebook http://facebook.com/EnLabHQ
+Redirect 301 /$ http://cash.me/$EnLab
+Redirect 301 /pinterest http://pinterest.com/EnLabHQ
+Redirect 301 /meerkat http://meerkatapp.co/EnLab
+Redirect 301 /tip http://enlab.tip.me
+Redirect 301 /slack http://enlabhq.slack.com/messages
+Redirect 301 /devchat http://gitter.im/EnLab
+Redirect 301 /github http://github.com/enlabhq
+Redirect 301 /git http://github.com/enlabhq
+Redirect 301 /padlet http://padlet.com/enlabhq
+Redirect 301 /scrum http://padlet.com/EnLabHQ/scrum

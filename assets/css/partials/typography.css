@@ -1,0 +1,13 @@
+/***** Google *****/
+@import url('http://fonts.googleapis.com/css?family=Cabin:400,500,700');
+@import url('http://fonts.googleapis.com/css?family=Karla:400,700');
+/***** END Google *****/
+
+/***** font-face *****/
+@font-face {
+font-family: 'Reklame Script Regular DEMO';
+font-style: normal;
+font-weight: normal;
+src: local('Reklame Script Regular DEMO'), url('http://enlab.co/assets/fonts/ReklameScript-Regular_DEMO.woff') format('woff');
+}
+/***** END font-face *****/
